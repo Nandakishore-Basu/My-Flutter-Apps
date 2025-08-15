@@ -17,3 +17,7 @@ Ready-to-install 100% safe flutter apk files
 ## Image Generator AI :
 
 > Version 1.0.0
+
+## English Dictionary :
+
+> Version 1.0.0
