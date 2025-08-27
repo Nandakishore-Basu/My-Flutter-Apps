@@ -27,3 +27,5 @@ Ready-to-install 100% safe flutter apk files
 ## Chat AI
 
 > Version 1.0.0
+
+> Version 1.1.0
