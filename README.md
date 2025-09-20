@@ -24,8 +24,12 @@ Ready-to-install 100% safe flutter apk files
 
 > Version 1.1.0
 
-## Chat AI
+## Chat AI :
 
 > Version 1.0.0
 
 > Version 1.1.0
+
+## Dynamic Fonts :
+
+> Version 1.0.0
